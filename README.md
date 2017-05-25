@@ -21,7 +21,9 @@ In this file, it offers two method based on reinforcement learning to slove this
 2. epsilon-greedy Q-learning
 
 
-results:
+results show that steps approching to goal is gradually convenget with the times:\
+<img src="https://github.com/LUYUJIA/Maze-Problem-Matlab-Qlearning/raw/master/reinfo-1.jpg" width="500" />
+<img src="https://github.com/LUYUJIA/Maze-Problem-Matlab-Qlearning/raw/master/reinfo-2.jpg" width="500" />
+<img src="https://github.com/LUYUJIA/Maze-Problem-Matlab-Qlearning/raw/master/reinfo-3.jpg" width="500" />
 
-![](https://github.com/LUYUJIA/Maze-Problem-Matlab-Qlearning/raw/master/reinfo-1.eps)  
 
