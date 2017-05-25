@@ -19,3 +19,9 @@ In this file, it offers two method based on reinforcement learning to slove this
 
 1. epsilon-greedy TD(0) 
 2. epsilon-greedy Q-learning
+
+
+results:
+
+![](https://github.com/LUYUJIA/Maze-Problem-Matlab-Qlearning/raw/master/reinfo-1.eps)  
+
